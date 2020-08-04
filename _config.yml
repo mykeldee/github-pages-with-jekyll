@@ -1,3 +1,8 @@
+---
+title: "Mykel Dee's Creations"
+date: 2020-08-04
+---
+
 title: Mykel Dee's Creations
 author: GitHub User
 email: kdankyira.development@gmail.com
@@ -6,11 +11,6 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 theme: minima
-
----
-title: "Mykel Dee's Creations"
-date: 2020-08-04
----
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
