@@ -1,3 +1,3 @@
-# Welcome to my blog
+This is my Home Page I guess.
 
-I'm glad you are here. I plan to talk about ...
+This is my first attempt at GitHub Pages. Hope it turns out well for me. Thanks.
